@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 360" role="img" aria-label="Zapatillas crema">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eae9e2"/><stop offset="1" stop-color="#fffaf8"/></linearGradient><filter id="sh" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="1" dy="10" stdDeviation="10" flood-color="#402c45" flood-opacity=".18"/></filter></defs>
+<rect width="320" height="360" rx="20" fill="url(#bg)"/><circle cx="285" cy="65" r="90" fill="#fff" opacity=".28"/><circle cx="25" cy="322" r="82" fill="#fff" opacity=".20"/>
+<g filter="url(#sh)" stroke="#beb9ae" stroke-width="2"><path d="M63 157q22 34 54 31l48 24q17 13 12 31-13 20-66 6l-69-21q-18-9-12-31l17-32Z" fill="#fffefb"/><path d="M166 151q20 35 54 32l47 27q23 22 8 38-23 15-70-2l-61-21q-18-16-10-28l14-39Z" fill="#fffdf8"/><path d="m56 193 34 16m-28-23 34 16m-29-24 34 16m66 1 36 16m-30-23 36 16m-29-24 34 16" stroke="#b6af9e" fill="none"/><path d="M29 222q49 34 147 19m-34-15q59 40 133 18" stroke="#9d978d" fill="none" stroke-width="8"/></g>
+<text x="22" y="330" font-size="9" fill="#665d66" font-family="Arial, sans-serif" letter-spacing="3">SYN CLOTHE / 01</text>
+</svg>
